@@ -4,9 +4,15 @@ Este es un programa que se conecta a la API de la pagina https://financialmodeli
 
 El programa esta dividido en dos archivos .py.
 
+## Archivo del programa
+
 https://github.com/drincon02/Extraccion-ratios-financieros/blob/main/finacial_ratios_download.py - Este script crea unas funciones las cuales se encargan de todo el proceso desde la descarga hasta la manipulacion de los datos.
 
+## Interfaz Grafica
+
 https://github.com/drincon02/Extraccion-ratios-financieros/blob/main/graphic_interface.py - Esta es la interfaz grafica en la cual el usuario puede interactuar graficamente con el programa.
+
+## Uso del programa
 
 Para usar este programa simplemente corran el script https://github.com/drincon02/Extraccion-ratios-financieros/blob/main/graphic_interface.py para abrir la interfaz grafica, deben tener los dos archivos de python en la misma carpeta.
 
