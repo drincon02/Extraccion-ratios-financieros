@@ -14,6 +14,6 @@ https://github.com/drincon02/Extraccion-ratios-financieros/blob/main/graphic_int
 
 ## Uso del programa
 
-Para usar este programa simplemente corran el script https://github.com/drincon02/Extraccion-ratios-financieros/blob/main/graphic_interface.py para abrir la interfaz grafica, deben tener los dos archivos de python en la misma carpeta.
+Para usar este programa simplemente corran el script https://github.com/drincon02/Extraccion-ratios-financieros/blob/main/graphic_interface.py para abrir la interfaz grafica, deben tener los dos archivos de python junto con el icono del programa en la misma carpeta.
 
 Para ejecutar el programa se necesita una API key esta se puede conseguir en https://financialmodelingprep.com/register en esa pagina se registran y obtienen una API key gratis.
